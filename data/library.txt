@@ -1,10 +1,12 @@
-1; All the King's Men; Robert Penn Warren; Historical Fiction; 10/12/1946; 0
-2; Harry Potter and the Deathly Hallows; JK Rowling; Fantasy; 7/21/2007; 0
-3; Percy Jackson and the Last Olympian; 5;5;2009; 0
-4; The Martian; Andy Weir; Science Fiction; 2/11/2004; 0
-5; The Ultimate Hitchhiker's Guide to the Galaxy; 1/17/1996; 0
-6; Hogfather; Terry Pratchett; 11/7/1996; 0
-7; The Pillars of the Earth; Ken Follet; 1/1/1989; 0
-8; Da Vinci Code; Dan Brown; 3/18/2003; 0
-9; Surely You're Joking, Mr. Feynman; Richard Feynman; 2/5/1985; 0
-10; Dune; Frank Herbert; 8/12/1965; 0
+All the King's Men; Robert Penn Warren; Historical Fiction; 10/12/1946; -; 3
+Harry Potter and the Deathly Hallows; JK Rowling; Fantasy; 07/21/2007; -; 1
+Percy Jackson and the Last Olympian; Rick Riordan; Fantasy; 05/5/2009; -; 0
+The Martian; Andy Weir; Science Fiction; 02/11/2004; -; 0
+The Ultimate Hitchhiker's Guide to the Galaxy; Douglas Adams; Science Fiction Comedy; 1/17/1996; -; 0
+Hogfather; Terry Pratchett; Fantasy; 11/7/1996; -; 3
+The Pillars of the Earth; Ken Follet; Historical Fiction; 1/1/1989; -; 1
+Da Vinci Code; Dan Brown; Realistic Fiction; 03/18/2003; -; 2
+Surely You're Joking, Mr. Feynman; Richard Feynman; Autobiography; 2/5/1985; -; 1
+Dune; Frank Herbert; Science Fiction; 08/12/1965; -; 3
+The Anthropocene Reviewed; John Green; Non-fiction; 5/21/2021; -; 4
+The fault in our stars; John Green; Realistic Fiction; 12/12/2021; -; 1

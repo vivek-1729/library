@@ -9,10 +9,14 @@ public class User {
             FileWriter createFile = new FileWriter("data/" + username + ".txt");
             createFile.write(password);
             createFile.close();
-            System.out.println("Successful");
+            System.out.println("\n New User Created \n");
         }
         catch (Exception e) {
             System.out.println("Something went wrong");
         }
+    }
+
+    public String getUsername() {
+        return username;
     }
 }
