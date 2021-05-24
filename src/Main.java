@@ -148,7 +148,6 @@ public class Main {
                     break;
             }
         } catch (Exception e) {
-            System.out.println(e);
             System.out.println("Invalid input");
             Menu(user);
             return;
@@ -204,7 +203,7 @@ public class Main {
 
         }
         catch (Exception e) {
-            System.out.println(e);
+            System.out.println("Invalid input");
         }
     }
 
@@ -300,7 +299,7 @@ public class Main {
                     System.out.println("\n" + books[bookIndex].split(";")[0] + " has been returned\n");
                     return;
                 } catch (Exception e) {
-                    System.out.println(e);
+                    System.out.println("Invalid Input");
                 }
             }
         }
